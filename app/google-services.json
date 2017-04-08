@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1011954636116",
+    "firebase_url": "https://firethealter.firebaseio.com",
+    "project_id": "firethealter",
+    "storage_bucket": "firethealter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011954636116:android:34f5bfa5fa9dfdea",
+        "android_client_info": {
+          "package_name": "com.apps.alter.alterationfb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011954636116-ne6q503l2n7kkmb8ck9fg0hdsn392nt5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apps.alter.alterationfb",
+            "certificate_hash": "3e0e1123fd7fab93ca2ae1ca4beb5437555d77be"
+          }
+        },
+        {
+          "client_id": "1011954636116-slkvt3ic4qr3h4msgi6ue72f5uird3j9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRIvSPeotqjre178GtNJIotOyk1twHaIs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011954636116-slkvt3ic4qr3h4msgi6ue72f5uird3j9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
